@@ -1,0 +1,1 @@
+<?phpnamespace app\controllers;use yii\web\Controller;class BuyerController extends Controller{	public function actionBuyer()	{		return $this->render('index');	}}
