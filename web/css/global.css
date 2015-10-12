@@ -36,11 +36,11 @@ div.inner.top {padding: 1px 0;}
     font-size: 0.8rem;    
 	float: left;
 }	
-	#topMenu ul.menu {		
-		display: inline-block;
-		list-style: outside none none;
-		padding: 0;
-	}
+#topMenu ul.menu {		
+	display: inline-block;
+	list-style: outside none none;
+	padding: 0;
+}
 	#topMenu ul.menu > li {display: inline-block;}
 	#topMenu ul.menu > li > a {
 		color: #683a28;
