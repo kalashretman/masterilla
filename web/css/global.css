@@ -25,11 +25,11 @@ a {cursor: pointer; color: #683a28; text-decoration: none;}
 a:hover {text-decoration:underline;}
 ul {margin:0;}
 hr {
-	border: medium none;
-    clear: both;
-    margin: 0;
-    padding: 0;
-    width: 100%;
+  border: medium none;
+  clear: both;
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 /* topMenu */
 div.inner.top {padding: 1px 0;}
