@@ -6,9 +6,7 @@ html, body  {
     margin: 0;
     padding: 0;
 }
-html {
-    background: rgba(0, 0, 0, 0) url("/web/img/bgstyle.png") repeat scroll 0 0;
-}
+html {background: rgba(0, 0, 0, 0) url("/web/img/bgstyle.png") repeat scroll 0 0;}
 body {
 	background-color: #fff;
     border-left: 1px solid #e2c8bd;
@@ -25,11 +23,11 @@ a {cursor: pointer; color: #683a28; text-decoration: none;}
 a:hover {text-decoration:underline;}
 ul {margin:0;}
 hr {
-	border: medium none;
-    clear: both;
-    margin: 0;
-    padding: 0;
-    width: 100%;
+  border: medium none;
+  clear: both;
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 /* topMenu */
 div.inner.top {padding: 1px 0;}
@@ -38,11 +36,11 @@ div.inner.top {padding: 1px 0;}
     font-size: 0.8rem;    
 	float: left;
 }	
-	#topMenu ul.menu {		
-		display: inline-block;
-		list-style: outside none none;
-		padding: 0;
-	}
+#topMenu ul.menu {		
+	display: inline-block;
+	list-style: outside none none;
+	padding: 0;
+}
 	#topMenu ul.menu > li {display: inline-block;}
 	#topMenu ul.menu > li > a {
 		color: #683a28;
